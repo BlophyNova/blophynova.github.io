@@ -17,8 +17,7 @@ hero:
       text: Github
       link: https://github.com/BlophyNova/Blophy
 ---
-<style>
-:root {
+<style>:root {
 --vp-home-hero-name-color: transparent;
 --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #c5fe34, #41d1ff);
 }

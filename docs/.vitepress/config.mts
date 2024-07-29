@@ -9,13 +9,13 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '主页', link: '/' },
       { text: '判定', link: '/start/judge/judge' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '本体文档',
         items: [
           { text: '判定', link: '/start/judge/judge' },
         ]
