@@ -11,11 +11,11 @@ hero:
     alt: Blophy Logo
   actions:
     - theme: brand
-      text: 文档
-      link: /start/judge/judge
+      text: 周边生态
+      link: /ecosystem/list
     - theme: alt
       text: Github
-      link: https://github.com/BlophyNova/Blophy
+      link: https://github.com/BlophyNova
 ---
 <style>:root {
 --vp-home-hero-name-color: transparent;
